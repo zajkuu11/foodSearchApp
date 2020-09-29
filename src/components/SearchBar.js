@@ -26,10 +26,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#b1b1b1',
     height: 50,
     borderRadius: 5,
-    marginHorizontal: 5,
+    marginHorizontal: 15,
     flexDirection: 'row',
     alignItems: 'center',
     marginTop: 15,
+    marginBottom: 10,
   },
   inputStyle: {
     flex: 1,
